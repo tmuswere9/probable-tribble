@@ -1,5 +1,5 @@
 # probable-tribble
-This is a sudoku solver using the backtracking algorithm. It includes a graphical GUI as well as a text based version.
+Backtracking algorithm for solving a Sudoku. It includes a graphical GUI.
 
 Run GUI.py to play sudoku.
 
